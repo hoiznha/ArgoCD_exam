@@ -55,4 +55,4 @@ jobs:
 
         git add .
         git commit -m "update image tag ${{ github.sha }}"
-        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/hoiznha/ArgoCD_exam```
+        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/hoiznha/ArgoCD_exam
